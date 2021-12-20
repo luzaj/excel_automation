@@ -50,6 +50,7 @@ msg = f'''
         {ticket.to_html(formatters={'Ticket Médio':'R${:,.2f}'.format})}
         <p>Qualquer dúvida, seguimos à disposição</p>
         <p>Att.,</p>
+        <p>Dev</p>
     </body>
 </html>
 '''
